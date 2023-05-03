@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+    
+    background-image: linear-gradient(to right ,red, yellow);
+}
+
+.cascading-right {
+    margin-right: -50px;
+}
+
+@media (max-width: 991.98px) {
+.cascading-right {
+    margin-right: 0;
+}
+}
+
+.back {
+    background: hsla(0, 0%, 100%, 0.55);
+    backdrop-filter: blur(30px);
+}
