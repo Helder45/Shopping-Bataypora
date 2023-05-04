@@ -1,16 +1,8 @@
-.wdefault {
+.c-item{
     height: 500px;
 }
-
-@media (max-height: 500px) {
-    .wdefault{
-        margin: 0 auto;
-    }
-}
-
-@media (min-height: 100px){
-    .wdefault{
-        margin: 0 auto;
-        width: 320px;
-    }
+.c-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
 }
