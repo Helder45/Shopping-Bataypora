@@ -7,3 +7,9 @@
     object-fit: cover;
     filter: brightness(0.6);
 }
+
+@media (max-width: 400px){
+    .c-item{
+        height: 200px;
+    }
+}
