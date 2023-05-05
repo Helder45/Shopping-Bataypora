@@ -28,7 +28,10 @@
         font-size: 30px;
     }
     .display-3{
-        font-size: 15px;
+        font-size: 30px;
+    }
+    .display-6{
+        font-size: 30px;
     }
 }
 
@@ -41,5 +44,8 @@
     }
     .display-3{
         font-size: 15px;
+    }
+    .display-6{
+        font-size: 10px;
     }
 }
