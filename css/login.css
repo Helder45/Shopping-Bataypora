@@ -1,5 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
 
+/*Colors to follow
+
+    #C6C5B9
+    #62929E
+    #4A6D7C
+    #393A10
+    #475657
+*/
+
+.nav-bg-color, .dropdown-menu-color, .btn-color{
+    background-color: #393A10 !important;
+}
+
+.navbar-color, .nav-link{
+    color: #C6C5B9 !important;
+}
+
+.nav-link:hover{
+    background-color: #C6C5B9 !important;
+    border-radius: 10px !important;
+    color: #393A10 !important;
+    font-weight: bolder;
+}
+
+
 .gradient-custom {
     background: #6a11cb;
     background-image: linear-gradient(#6a11cb, black);
