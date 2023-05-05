@@ -8,7 +8,7 @@
     filter: brightness(0.6);
 }
 
-@media (max-width: 400px){
+@media (max-width: 425px){
     .c-item{
         height: 200px;
     }
