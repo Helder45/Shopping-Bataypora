@@ -24,10 +24,22 @@
     .c-item{
         height: 400px;
     }
+    .display-1{
+        font-size: 30px;
+    }
+    .display-3{
+        font-size: 15px;
+    }
 }
 
 @media (max-width: 425px){
     .c-item{
         height: 200px;
+    }
+    .display-1{
+        font-size: 15px;
+    }
+    .display-3{
+        font-size: 15px;
     }
 }
