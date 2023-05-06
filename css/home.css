@@ -7,6 +7,19 @@
     #475657
 */
 
+.gradient-diff{
+    background-color: #475657;
+}
+
+.card-alt, .crd-img{
+    height: 200px;
+}
+
+.crd-img{
+    height: 150px;
+    object-fit: cover;
+}
+
 .nav-bg-color, .btn-color{
     background-color: #393A10 !important;
 }
@@ -16,14 +29,12 @@
     height: 75px;
 }
 
-
-.cor{
-    background-color: limegreen;
-    object-fit: fill;
-}
-
 .dropdown-menu-color{
     background-color: #393A10 !important;
+}
+
+.dropdown-menu-color2{
+    background-color: #475657 !important;
 }
 
 .navbar-color, .nav-link{
@@ -45,6 +56,11 @@
     height: 100%;
     object-fit: cover;
     filter: brightness(0.6);
+}
+
+.icon-size{
+    height: 25px;
+    width: 25px;
 }
 
 @media (max-width: 2560px){
@@ -86,5 +102,12 @@
     }
     .display-6{
         font-size: 10px;
+    }
+    .card-alt{
+        height: 125px;
+    }
+    .crd-img{
+        height: 75px;
+
     }
 }
