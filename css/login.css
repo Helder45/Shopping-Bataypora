@@ -13,6 +13,10 @@
     background-color: #393A10 !important;
 }
 
+.bck-color{
+    background-color: #4A6D7C;
+}
+
 .navbar-color, .nav-link{
     color: #C6C5B9 !important;
 }
@@ -28,11 +32,6 @@
 .gradient-custom {
     background: #6a11cb;
     background-image: linear-gradient(#6a11cb, black);
-}
-
-.gradient-diff {
-    background-color: aquamarine;
-    background-image: linear-gradient(to right, red, green, blue);
 }
 
 .cascading-right {
