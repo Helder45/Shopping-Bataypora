@@ -11,6 +11,17 @@
     background-color: #393A10 !important;
 }
 
+.larg-alt-toast{
+    width: 75px;
+    height: 75px;
+}
+
+
+.cor{
+    background-color: limegreen;
+    object-fit: fill;
+}
+
 .dropdown-menu-color{
     background-color: #393A10 !important;
 }
