@@ -11,6 +11,17 @@
     background-color: #393A10 !important;
 }
 
+.gradient-diff{
+    background-color: #475657;
+}
+
+.rounded-cir-top-bot{
+    border-top-left-radius: 50% !important;
+    border-top-right-radius: 50% !important;
+    border-bottom-left-radius: 10% !important;
+    border-bottom-right-radius: 10% !important;
+}
+
 .navbar-color, .nav-link{
     color: #C6C5B9 !important;
 }
