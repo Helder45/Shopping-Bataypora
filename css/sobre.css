@@ -7,6 +7,12 @@
     #475657
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+main, .container, .card{
+    font-family: 'Lora', serif !important;
+}
+
 .nav-bg-color, .dropdown-menu-color, .btn-color{
     background-color: #393A10 !important;
 }
@@ -31,4 +37,11 @@
     border-radius: 10px !important;
     color: #393A10 !important;
     font-weight: bolder;
+}
+
+.justify-text{
+    text-align: justify;
+    color: #C6C5B9;
+    text-decoration: solid;
+    font-weight: 500;
 }
