@@ -16,10 +16,10 @@
 }
 
 .rounded-cir-top-bot{
-    border-top-left-radius: 50% !important;
-    border-top-right-radius: 50% !important;
-    border-bottom-left-radius: 10% !important;
-    border-bottom-right-radius: 10% !important;
+    border-top-left-radius: 175px !important;
+    border-top-right-radius: 175px !important;
+    border-bottom-left-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
 }
 
 .navbar-color, .nav-link{
