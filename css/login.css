@@ -28,12 +28,6 @@
     font-weight: bolder;
 }
 
-
-.gradient-custom {
-    background: #6a11cb;
-    background-image: linear-gradient(#6a11cb, black);
-}
-
 .cascading-right {
     margin-right: -50px;
 }
